@@ -1,0 +1,3 @@
+data;
+param n:=140;
+read {i in 1..n} (x1[i], y[i], x2[i]) < irisdata.csv;

@@ -1,0 +1,3 @@
+set items := rural urban;
+param C := rural 7000 urban 5000;
+param budget := 200;

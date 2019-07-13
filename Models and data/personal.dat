@@ -1,0 +1,3 @@
+ set cities := Talinn Warsaw Pompei Stavagner Lviv Utrecht;
+param flightCost := Talinn 140 Warsaw 180 Pompei 220 Stavagner 400 Lviv 250 Utrecht 240;
+param livingCost := Talinn 20 Warsaw 23 Pompei 20 Stavagner 40 Lviv 20 Utrecht 25;
